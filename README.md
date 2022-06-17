@@ -1,8 +1,8 @@
-#👋 Hi, I’m @masaatchi1372
+# 👋 Hi, I’m @masaatchi1372
 
-##👀 Product Management is my passion and when it comes to games, I'll do it with my heart ❤️.
+## 👀 Product Management is my passion and when it comes to games, I'll do it with my heart ❤️.
 
-###I've been a Game Producer for +7 years and created amazing products on platforms like Android, iOS and Steam.
+### I've been a Game Producer for +7 years and created amazing products on platforms like Android, iOS and Steam.
 
 Usually, depending on the project, I’m engaged with the following duties:
 ✅ Project Management, Scrum implementation, iterations planning, tasks distribution & delivery control.
