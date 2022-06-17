@@ -5,11 +5,12 @@
 ### I've been a Game Producer for +7 years and created amazing products on platforms like Android, iOS and Steam
 
 Usually, depending on the project, I’m engaged with the following duties:
-✅ Project Management, Scrum implementation, iterations planning, tasks distribution & delivery control.
-✅ Product Management, MVP & Backlog design, development cycle control.
-✅ Market & Competitor Analysis, Product Analysis
-✅ Business Analysis, UI prototyping, requirements specification, new features generation.
-✅ Organizing & control over the development teams (Software Engineers, QA specialists, Designers and etc).
+- ✅ Project Management, Scrum implementation, iterations planning, tasks distribution & delivery control.
+- ✅ Product Management, MVP & Backlog design, development cycle control.
+- ✅ Market & Competitor Analysis, Product Analysis
+- ✅ Business Analysis, UI prototyping, requirements specification, new features generation.
+- ✅ Organizing & control over the development teams (Software Engineers, QA specialists, Designers and etc).
+
 
 ⬇️ I have strong knowledge in:
 ⭐️project management platforms
