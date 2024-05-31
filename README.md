@@ -1,32 +1,34 @@
-# 👋 Hi, I’m @masaatchi1372
+# 👋 Hi, I'm Mohammad
 
-## 👀 Product Management is my passion and when it comes to games, I'll do it with my heart ❤️
+## 👀 Working in game industry is my passion and when it comes to games, I'll do it with my heart ❤️
 
-### I've been a Game Producer for +7 years and created amazing products on platforms like Android, iOS and Steam
+### With over 10 years of experience in the gaming industry, I've created amazing products on platforms like Android, iOS, and Steam.
 
-Usually, depending on the project, I’m engaged with the following duties:
-- ✅ Project Management, Scrum implementation, iterations planning, tasks distribution & delivery control.
-- ✅ Product Management, MVP & Backlog design, development cycle control.
-- ✅ Market & Competitor Analysis, Product Analysis
-- ✅ Business Analysis, UI prototyping, requirements specification, new features generation.
-- ✅ Organizing & control over the development teams (Software Engineers, QA specialists, Designers and etc).
-
+My key responsibilities typically include:
+- ✅ Project Management: Implementing Scrum, planning iterations, distributing tasks, and controlling delivery.
+- ✅ Product Management: Designing MVPs & backlogs, overseeing the development cycle.
+- ✅ Market & Competitor Analysis, Product Analysis.
+- ✅ Business Analysis: UI prototyping, specifying requirements, and generating new features.
+- ✅ Organizing and controlling development teams, including Software Engineers, QA specialists, and Designers.
 
 ⬇️ I have strong knowledge in:
-⭐️project management platforms
+⭐️ Project Management Platforms
 ✔️ Click up, Trello, Jira
 
-⭐️product design
+⭐️ Product Design
 ✔️ Photoshop, Illustrator, Sketch, Zeplin
 
-⭐️product marketing
-✔️Google ads, Facebook ads
+⭐️ Product Marketing
+✔️ Google ads, Facebook ads, Adjust, AppTweak
 
-⭐️coding and game development on various engines
-✔️Unity, Solar 2D and Corona SDK
+⭐️ Coding and Game Development on Various Engines
+✔️ Unity, Solar 2D and Corona SDK
 
-⭐️ familiar with web development
-✔️html, css, js, bootstrap
+⭐️ Familiar with Web Development
+✔️ html, css, js, bootstrap
+
+⭐️ Business Intelligence & Analytics
+✔️ Firebase, BigQuery, Looker Studio, Delta DNA, IronSource, AdMob
 
 
 Countries that I worked with:
