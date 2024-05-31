@@ -43,7 +43,6 @@ Countries that I worked with:
 1. Email: mohammadalisaatchi@gmail.com
 2. Linkedin: https://www.linkedin.com/in/masaatchi/
 3. Portfolio: https://linktr.ee/Masaatchi
-4. Twitter: masaatchi
 
 <!---
 masaatchi1372/masaatchi1372 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
